@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">牛牛挤奶</string>
+    <string name="tile_label">牛牛挤奶磁贴</string>
+    <string name="complication_label">牛牛挤奶复杂功能</string>
+</resources>
