@@ -2,6 +2,10 @@
 
 基于原牛牛挤奶项目的安卓手表迁移，基于API30的方表，功能与原版几乎一样，增加灵敏度自动校正，gpt5.3-codex辅助开发
 
+## 安装包
+链接：https://pan.quark.cn/s/ba0014657179
+      https://pan.baidu.com/s/1c51fBp8AQErRL_PX-oCyjA?pwd=dnph
+
 ## 构建
 
 ```bash
