@@ -4,8 +4,7 @@
 
 ## 安装包
 链接：https://pan.quark.cn/s/ba0014657179
-
-      https://pan.baidu.com/s/1c51fBp8AQErRL_PX-oCyjA?pwd=dnph
+https://pan.baidu.com/s/1c51fBp8AQErRL_PX-oCyjA?pwd=dnph
 
 ## 构建
 
